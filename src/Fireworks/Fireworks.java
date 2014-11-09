@@ -183,7 +183,7 @@ public class Fireworks extends Application {
             particles.add(new Particle(
                 canvas.getWidth()*0.5, canvas.getHeight()+10,
                 Math.random() * 5 - 2.5, 0, 
-                0, 150 + Math.random() * 100,
+                0, 145 + Math.random() * 100,
                 colors[0], 9,
                 false, true, true));
         }
